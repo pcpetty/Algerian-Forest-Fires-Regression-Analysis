@@ -6,7 +6,6 @@ Forest fires are a major environmental concern, especially in regions with dense
 ## Dataset
 - **Source:** Abid, (2019). Algerian Forest Fires [UCI Machine Learning Repository]. https://doi.org/10.24432/C5KW4N
 
-- Abid,  . (2019). Algerian Forest Fires [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5KW4N.
 - **Description:** The dataset contains various environmental attributes such as temperature, humidity, wind speed, and rainfall, recorded over multiple years.
 
 ## Key Features
