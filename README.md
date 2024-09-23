@@ -4,7 +4,9 @@
 Forest fires are a major environmental concern, especially in regions with dense vegetation. Understanding the factors contributing to these fires is crucial for prevention and mitigation. This project aims to use historical data to build a predictive model for forest fire intensity based on multiple environmental variables.
 
 ## Dataset
-- **Source:** [Predicting Forest Fire in Algeria Using Data Mining Techniques - ResearchGate](https://www.researchgate.net/publication/339062373_Predicting_Forest_Fire_in_Algeria_Using_Data_Mining_Techniques_Case_Study_of_the_Decision_Tree_Algorithm)
+- **Source:** [Abid, (2019) Algerian Forest Fires [UCI Machine Learning Repository]([https://doi.org/10.24432/C5KW4N])
+
+- Abid,  . (2019). Algerian Forest Fires [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5KW4N.
 - **Description:** The dataset contains various environmental attributes such as temperature, humidity, wind speed, and rainfall, recorded over multiple years.
 
 ## Key Features
